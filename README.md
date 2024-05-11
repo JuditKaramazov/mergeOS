@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/JuditKaramazov/mergeOS/releases/tag/v1.0.0">
-    <img src="/Screenshots/mergeos-01.png" width="200" height="200" style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));" alt="mergeOS original logo.">
+    <img src="/Screenshots/mergeOS-01.png" width="200" height="200" style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));" alt="mergeOS original logo.">
   </a>
 </p>
 
@@ -89,7 +89,7 @@ Although he described his feelings as something not many would relate to, workin
 While we had to accept this "success narrative" as the only way to preserve our stability, these announcements only highlighted what started to be more evident than we'd want to admit: **there is no valid narrative of "success" anymore**. It's a facade. As developers (and it pains me to admit it), we do not aim at succeeding or achieving the best quality anymore. The race to run is _not_ against ourselves: everything has been reduced to an exhausting race against time, impossible deadlines, and numbers we'll never manage to comprehend.
 
 <p align="center">
-  <img src="/Screenshots/mergeOS-02.png" width="500" alt="'mergeOS' screenshot."
+  <img src="/Screenshots/mergeOS-02.png" width="800" alt="'mergeOS' screenshot."
     style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
     <br/>
 </p>
@@ -117,7 +117,7 @@ Accessibility has always been one of my main goals, no matter if I was developin
 5. **Enter your token**.
 
 <p align="center">
-  <img src="/Screenshots/mergeOS-03.png" alt="'mergeOS' screenshot.">
+  <img src="/Screenshots/mergeOS-03.png" width="900" alt="'mergeOS' screenshot.">
     <br/>
 </p>
 
@@ -138,7 +138,7 @@ Although it is possible to **manually refresh the application** by choosing the 
 Yes, indeed: everything is about work, coding, and efficiency. As GitHub is my preferred tool, this application gravitates around The Nerd Cat™, its API, and our dearly-beloved pull requests: **created** or **assigned**, with their **check suites information**, **author**, **number of approvals**... and more!
 
 <p align="center">
-  <img src="/Screenshots/mergeOS-04.png" width="500" alt="'mergeOS' screenshot."
+  <img src="/Screenshots/mergeOS-04.png" width="800" alt="'mergeOS' screenshot."
     style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
     <br/>
 </p>
@@ -150,7 +150,7 @@ Also, and since I am aware of the existence of GitHub Enterprise, I made it poss
 Certainly, this application serves as **a shortcut to enhance users' productivity**, allowing them to **check their pending pull requests directly in their menu**. This fact doesn't mean, however, that we can't get slightly... _stylish_ here.
 
 <p align="center">
-  <img src="/Screenshots/mergeOS-05.png" width="500" alt="'mergeOS' screenshot."
+  <img src="/Screenshots/mergeOS-05.png" width="800" alt="'mergeOS' screenshot."
     style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
     <br/>
 </p>
@@ -164,7 +164,7 @@ Finally, and is it essential these days, it is also possible to **record your pr
 - Go to `Settings...`, `Shortcuts`, and input your desired combinations.
 
 <p align="center">
-  <img src="/Screenshots/mergeOS-06.png" width="500" alt="'mergeOS' screenshot."
+  <img src="/Screenshots/mergeOS-06.png" width="800" alt="'mergeOS' screenshot."
     style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
     <br/>
 </p>
